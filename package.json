@@ -1,0 +1,48 @@
+{
+  "name": " dxd_client_vzinnovation_smart-ecosystems-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev npx parcel src/index.html --open",
+    "devWS": "NODE_ENV=dev npx parcel src/index.html --open & npm run websocket",
+    "parcelBuild": "NODE_ENV=prod npx parcel build src/index.html --public-url ./ --out-dir build --no-source-maps --no-minify && npx serve build",
+    "build": "npm run clean && npm run parcelBuild",
+    "clean": "rm -r build/ || true",
+    "websocket": "node websocket/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "camelcase": "^6.2.0",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-static-files-copy": "^2.5.0",
+    "pug": "^3.0.0",
+    "sass": "^1.28.0",
+    "simplex-noise": "^2.4.0",
+    "vue-router": "^3.4.8",
+    "vue-template-compiler": "^2.6.12",
+    "vue-typer": "^1.2.0"
+  },
+  "dependencies": {
+    "three": "^0.123.0",
+    "vue": "^2.6.12",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "staticFiles": {
+    "staticPath": [
+      {
+        "staticPath": "static",
+        "staticOutDir": "../dist/static",
+        "env": "dev"
+      },
+      {
+        "staticPath": "static",
+        "staticOutDir": "../build/static",
+        "env": "prod"
+      }
+    ],
+    "watcherGlob": "static/*"
+  }
+}

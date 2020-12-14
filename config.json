@@ -1,0 +1,5 @@
+{
+	"wsport": 8080,
+	"network": "localhost",
+	"useWebsocket": false
+}

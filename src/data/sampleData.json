@@ -1,0 +1,65 @@
+{
+	"portals": [
+		{
+			"id": "theLookingGlassFactory",
+			"name": "The Looking Glass Factory",
+			"logo": "lookingGlass/lookingGlassLogo.png",
+			"attract": {
+				"content": "What if you could draw in the third dimension?"
+			},
+			"about": {
+				"pageName": "Future Impact",
+				"title": "The Looking Glass Factory",
+				"subtitle": "",
+				"thumbnail": "lookingGlass/about.jpg",
+				"media": [
+					"lookingGlass/about.jpg"
+				],
+				"description": "Based in Brooklyn, Looking Glass Factory is the creator of the world's leading holographic display which allows groups of people to view, create, and share holographic content together."
+			},
+			"pages": [
+				{
+					"pageName": "What It Does",
+					"title": "Through the Looking Glass",
+					"subtitle": "A holographic portal to new worlds",
+					"thumbnail": "lookingGlass/whatItDoes.jpg",
+					"media": [
+						"lookingGlass/whatItDoes.jpg"
+					],
+					"description": "No more 3D content on 2D screens. No more isolating face-hugging headsets. With the Looking Glass you can design, develop, and display 3D projects entirely in the third dimension."
+				},
+				{
+					"pageName": "How It Works",
+					"title": "Powered by light field technology",
+					"subtitle": "",
+					"thumbnail": "lookingGlass/howItworks.jpg",
+					"media": [
+						"lookingGlass/fireworks.mp4",
+						"lookingGlass/howItworks.jpg"
+					],
+					"description": "The Looking Glass is powered by proprietary light field technology which generates 45 simultaneous views of a 3D object. This allows multiple people, standing around the object, to see it accurately from their unique vantage point."
+				},
+				{
+					"pageName": "Why It Matters",
+					"title": "Sharing 3D Experiences",
+					"subtitle": "",
+					"thumbnail": "lookingGlass/whyItMatters.jpg",
+					"media": [
+						"lookingGlass/whyItMatters.jpg"
+					],
+					"description": "We live in 3D. And yet, most of our digital creations remain trapped in flat, 2D screens. In our tireless quest for immersion, we've forgotten that the best 3D experiences are shared in physical space with real human beings."
+				},
+				{
+					"pageName": "Future Impact",
+					"title": "Empowering to become creators",
+					"subtitle": "",
+					"thumbnail": "lookingGlass/futureImpact.jpg",
+					"media": [
+						"lookingGlass/futureImpact.jpg"
+					],
+					"description": "Not only will the Looking Glass enable people to experience 3D content together in homes, offices, and venues. It will equip artists, engineers, and inventors to create the types of real-world 3D experiences we've only ever seen before in science fiction."
+				}
+			]
+		}
+	]
+}

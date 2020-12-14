@@ -1,0 +1,226 @@
+[
+	
+	{
+		"id": "LookingGlassFactory",
+		"partner": {
+			"partnerName": "Looking Glass Factory",
+			"partnerDescription": "Looking Glass Factory is the creator of the world's leading holographic display which allows groups of people to view, create, and share holographic content together.",
+			"logo":"Looking Glass Factory/lookingGlassLogo.png"
+		},
+		"physicalObjects": [
+			{
+				"name": "Looking Glass Tablet",
+				"size": "L x W x H",
+				"description": 	"Looking Glass 3D holographic tablet, size TBD",
+				"imageLink":	"https://img2.storyblok.com/0x0/filters:format(png):quality(80)/f/57871/1000x709/504d4356ad/product-8k.png"
+			}
+		],
+		"portalSize" : "Small + Small",
+		"location": "TBD",
+		"Portal Category": "Emerging Technology",
+		"Story Overview / Requirements (From Verizon)": "Makers of an interface for holographic experiences.",
+		"url": "https://lookingglassfactory.com/tech",
+		"attract": {
+			"copy": "The future of 3D is headset free"
+		},
+		"interact": {
+			"What it Does": {
+				"headline": "Through the Looking Glass",
+				"subheadline":"Using holograms to create new worlds",
+				"description": "No more 3D content on 2D screens. No more isolating face-hugging headsets. With the Looking Glass you can design, develop, and display 3D projects entirely in the third dimension.",
+				"media": "Looking Glass Factory/01_What It Does/Looking Glass Factory - product-image_8k_front-03-1.png",
+				"thumbnail": "Looking Glass Factory/01_What It Does/Looking Glass Factory - product-image_8k_front-03-1.png"
+			},
+			"How it Works": {
+				"headline": "Powered by Light Field Technology",
+				"subheadline":"",
+				"description": "The Looking Glass is powered by proprietary light field technology which generates 45 simultaneous views of a 3D object. This allows multiple people, standing around the object, to see it accurately from their unique vantage point. ",
+				"media": "Looking Glass Factory/02_How it Works/Looking Glass Factory - 8k-science-viz-group-e1573500181459.jpg",
+				"thumbnail": "Looking Glass Factory/02_How it Works/Looking Glass Factory - 8k-science-viz-group-e1573500181459.jpg"
+			},
+			"Why it Matters": {
+				"headline": "Sharing 3D Experiences",
+				"subheadline":"",
+				"description": "We live in 3D. And yet, most of our digital creations remain trapped in flat, 2D screens. In our tireless quest for immersion, we've forgotten that the best 3D experiences are shared in physical space with real human beings. ",
+				"media": "Looking Glass Factory/03_Why it Matters/Looking Glass Factory - schrodinger-dev-kit_2.jpg",
+				"thumbnail": "Looking Glass Factory/03_Why it Matters/Looking Glass Factory - schrodinger-dev-kit_2.jpg"
+			},
+			"Future Impact": {
+				"headline": "Empowering Creators",
+				"subheadline":"",
+				"description": "Not only will the Looking Glass enable people to experience 3D content together in homes, offices, and venues. It will equip artists, engineers, and inventors to create the types of real-world 3D experiences we've only ever seen in science fiction.",
+				"media": "Looking Glass Factory/04_Future Impact/Looking Glass Factory - physically-present-content-option-2.jpg",
+				"thumbnail": "Looking Glass Factory/04_Future Impact/Looking Glass Factory - physically-present-content-option-2.jpg"
+			}
+		}	
+	},
+	{
+		"id": "Wiliot",
+		"partner": {
+			"partnerName": "Williot",
+			"partnerDescription": "Wiliot is a fabless semiconductor company whose mission is to scale the Internet of Things by connecting people with products with cloud connected, sticker sized, Battery Free Bluetooth tags. ",
+			"logo":"Wiliot/05_About Our Partner/Wiliot Logo.png"
+		},
+		"physicalObjects": [
+			{
+				"name": "Wiliot Bluetooth Tag",
+				"dimensions": "L x W x H",
+				"description": "Verizon to Provide",
+				"imageLink": "https://techcrunch.com/wp-content/uploads/2019/01/Wiliot_Battery-free_Bluetooth_Tag_copy_nooejm.jpg?w=1390&crop=1"	
+			}
+		],
+		"portalSize" : "Medium",
+		"location": "TBD",
+		"Portal Category": "Emerging Technology",
+		"Story Overview / Requirements (From Verizon)": "Makers of a battery-free Bluetooth tag the size of a small sticker with processing power and sensors.",
+		"url": "https://www.wiliot.com/",
+		"attract": {
+			"copy": "What if a computer could harness energy from air?"
+		},
+		"interact": {
+			"What it Does": {
+				"headline": "A New Future for IoT",
+				"subheadline":"No Battery Needed",
+				"description": "What if you could have a computer that was the size of a postage stamp, that cost pennies instead of dollars, and never ran out of power? It would change the paradigm of what could be connected to the Internet. ",
+				"media": "Wiliot/01_What it Does/Wiliot_Battery-free_Bluetooth_Tag_copy_nooejm.jpg",
+				"thumbnail": "Wiliot/01_What it Does/Wiliot_Battery-free_Bluetooth_Tag_copy_nooejm.jpg"
+			},
+			"How it Works": {
+				"headline": "Drawing Power from Air",
+				"subheadline":"",
+				"description": "Wiliot's battery-free Bluetooth sensor is the size of a small sticker and draws power from ambient radio frequencies. Since there is no need to change batteries, it can be embedded inside objects to share real-time data about the object's journey.",
+				"media": "Wiliot/02_How it Works/Wiliot2_300119.jpg",
+				"thumbnail": "Wiliot/02_How it Works/Wiliot2_300119.jpg"
+			},
+			"Why it Matters": {
+				"headline": "Constant Connectivity",
+				"subheadline":"",
+				"description": "Now, there is an opportunity to connect objects throughout their entire life cycle: adding visibility and functionality through manufacturing, distribution, retail, ownership, and finally, as an object is recycled. ",
+				"media": "Wiliot/Battery-free Bluetooth Connecting Everything - Wiliot Explained.mp4",
+				"thumbnail": "Wiliot/02_How it Works/Wiliot2_300119.jpg"
+			},
+			"Future Impact": {
+				"headline": "Scaling-Up",
+				"subheadline":"",
+				"description": "With these micro computers, Wiliot envisions scaling Bluetooth to trillions of devices and products, enabling smarter and much leaner supply chains while delivering better experiences to customers.",
+				"media": "Wiliot/Battery-free Bluetooth Connecting Everything - Wiliot Explained.mp4",
+				"thumbnail": "Wiliot/02_How it Works/Wiliot2_300119.jpg"
+			}
+		}	
+	},
+	{
+		"id": "Medivis",
+		"partner": {
+			"partnerName": "Medivis",
+			"partnerDescription": "Founded by surgeons, radiologists, and engineers, Medivis harnesses the power of mixed reality to advance medical imaging and surgical navigation.",
+			"logo":"Medivis/Medivis Logo_Black_crop.png"
+		},
+		"physicalObjects": [
+			{
+				"name": "Medivis AR Glasses",
+				"dimensions": "L x W x H",
+				"description": "Verizon to Provide",
+				"imageLink": "tbd"	
+			}
+		],
+		"portalSize" : "Large + Medium",
+		"location": "TBD",
+		"Portal Category": "Deconstructed Tech",
+		"Story Overview / Requirements (From Verizon)": "Potential to leverage kit of parts (similar to Qwake). Build a story, demo + experience?",
+		"url": "",
+		"attract": {
+			"copy": "Can Augmented Reality Give Doctors X-Ray Vision?"
+		},
+		"interact": {
+			"What it Does": {
+				"headline": "Advanced Surgical Visualization",
+				"subheadline":"Using Augmented Reality to Improve Surgery",
+				"description": "Medivis is building the future of computer-assisted surgery, harnessing augmented reality (AR) and artificial intelligence (AI) to improve patient outcomes. ",
+				"media": "Medivis/01_What it Does/Medivis - helpingdoctorsfightcancerwith5g-1280x720.jpg",
+				"thumbnail": "Medivis/01_What it Does/Medivis - helpingdoctorsfightcancerwith5g-1280x720.jpg"
+			},
+			"How it Works": {
+				"headline": "Enhanced with AR",
+				"subheadline":"",
+				"description": "Medivis technology takes 2-D patient images and converts them to 3-D holographic renderings. Using an augmented reality headset and Medivis software, surgeons can overlay those 3-D holograms directly onto a patient, allowing for superior precision and real-time decision making.",
+				"media": "Medivis/02_How it Works/Medivis - NYT image.jpg",
+				"thumbnail": "Medivis/02_How it Works/Medivis - NYT image.jpg"
+			},
+			"Why it Matters": {
+				"headline": "Fewer Errors & Better Outcomes",
+				"subheadline":"",
+				"description": "Twenty percent of all invasive operations are fraught with preventable mistakes. Medivis helps doctors perform complex procedures with better accuracy that reduces error, ensures patient safety, and drives massive cost savings for medical institutions. \nImproved surgical visualization provides key insights that lead to more accurate and informed decisions during invasive operations. Medivis helps doctors reduce error and increase patient safety while driving cost savings for medical institutions. ",
+				"media": "Medivis/03_Why it Matters/Medivis-2.jpg",
+				"thumbnail": "Medivis/03_Why it Matters/Medivis-2.jpg"
+			},
+			"Future Impact": {
+				"headline": "The Final Frontier",
+				"subheadline":"",
+				"description": "\"Augmented reality is the final frontier of medical visualization, allowing us to rethink how medical imaging can be best utilized throughout all action stages of the surgical decision-making process.\"\n–Christopher Morley, MD",
+				"media": "Medivis/04_Future Impact/Medivis - Morley.jpg",
+				"thumbnail": "Medivis/04_Future Impact/Medivis - Morley2.jpg"
+			}
+		}	
+	},
+	{
+		"id": "DronesatWork",
+		"partner": {
+			"partnerName": "Skyward",
+			"partnerDescription": "Skyward’s software, services, training, and connectivity provide the next level of operational control for drone programs at every stage. We help companies and public agencies manage teams, equipment, projects, and flights, as well as access controlled airspace and operational insights.",
+			"logo":"Medivis/Medivis Logo_Black_crop.png"
+		},
+		"physicalObjects": [
+			{
+				"name": "Drone(s)",
+				"dimensions": "L x W x H",
+				"description": "Autonomous Beyond Visual Line of Sight \"drone box\" from Percepto. Alternatively, sample drones in various sizes could be displayed",
+				"imageLink": "tbd"	
+			},
+			{
+				"name": "OTTR + DOVe",
+				"dimensions": "L x W x H",
+				"description": "OTTR (Operations Trailer & Telecommunications Resource) + DOVe (Drone operations vehicle). These could be small scale models or a diagram of visuals for the screen (potentially for the \"how it works\" section).",
+				"imageLink": "tbd"	
+			}
+		],
+		"portalSize" : "Small + Medium",
+		"location": "TBD",
+		"Portal Category": "Emerging Technology",
+		"Story Overview / Requirements (From Verizon)": "A portal to provide context into the adjacent feature and Verizon's Skyward partnership.",
+		"url": "",
+		"attract": {
+			"copy": "What if drone flight wasn't limited by the pilot?"
+		},
+		"interact": {
+			"What it Does": {
+				"headline":"Free Flying",
+				"subheadline":"Transforming the operational model for drones",
+				"description":"Today, drone flight is limited to the pilot's visual line of sight - about .25 miles in any direction. However, with direct cellular connectivity, a single pilot will be able to operate many drones at once and send them anywhere, without line of sight restrictions.",
+				"media":"",
+				"thumbnail":""
+			},
+			"How it Works": {
+				"headline":"Powered by the Network",
+				"subheadline":"",
+				"description":"For drones to transfer data, share airspace with other aircraft, and fly autonomously, they must be connected to a network at all times–no matter where they are. Skyward and Verizon are equipping drones stay connected to Verizon's 5G networks, from beginning to end of any journey.",
+				"media":"",
+				"thumbnail":""
+			},
+			"Why it Matters": {
+				"headline":"The Possibilities of 5G",
+				"subheadline":"",
+				"description":"More than 25x faster than today's 4G networks, 5G will empower pilots to control entire fleets, simultaneously and remotely, from a single dashboard. In-flight drones will be able to process near real-time data analytics in the sky.",
+				"media":"",
+				"thumbnail":""
+			},
+			"Future Impact": {
+				"headline":"New, Complex Aerial Operations",
+				"subheadline":"",
+				"description":"Once approved by the FAA, these flights will open the door to more complex aerial operations, such as deploying drones long distances to inspect miles of railroad tracks or transmission lines - even entire cities! As drones fly more freely, they will impact every aspect of urban life.",
+				"media":"",
+				"thumbnail":""
+			}
+		}	
+	}
+
+]
